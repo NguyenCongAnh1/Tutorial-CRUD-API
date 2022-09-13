@@ -1,0 +1,6 @@
+
+
+Django + MySQL:  https://www.bezkoder.com/django-crud-mysql-rest-framework/
+
+
+Angular 14: https://www.bezkoder.com/angular-14-crud-example/
